@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rinat A. Sargeev | Andrea Blasco</title>
+    <link>ablasco.org/author/rinat-a.-sargeev/</link>
+      <atom:link href="ablasco.org/author/rinat-a.-sargeev/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rinat A. Sargeev</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>@ 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/ablasco.org/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Rinat A. Sargeev</title>
+      <link>ablasco.org/author/rinat-a.-sargeev/</link>
+    </image>
+    
+    <item>
+      <title>Advancing computational biology and bioinformatics research through open innovation competitions</title>
+      <link>ablasco.org/publication/adv-biology/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>ablasco.org/publication/adv-biology/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
