@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational biology | Andrea Blasco</title>
+    <link>http://ablasco.org/tag/computational-biology/</link>
+      <atom:link href="http://ablasco.org/tag/computational-biology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computational biology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>@ 2021</copyright><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://ablasco.org/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Computational biology</title>
+      <link>http://ablasco.org/tag/computational-biology/</link>
+    </image>
+    
+    <item>
+      <title>Mechanisms of Action Prediction Challenge</title>
+      <link>http://ablasco.org/project/moa-challenge/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://ablasco.org/project/moa-challenge/</guid>
+      <description>&lt;p&gt;This project was sponsored by the &lt;a href=&#34;https://clue.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Connectivity Map&lt;/a&gt;, within the &lt;a href=&#34;www.broadinstitute.org&#34;&gt;Broad Institute of MIT and Harvard&lt;/a&gt;, the &lt;a href=&#34;www.lish.harvard.edu&#34;&gt;Laboratory for Innovation Science at Harvard (LISH)&lt;/a&gt;, and the &lt;a href=&#34;www.nih.gov&#34;&gt;NIH Common Funds Library of Integrated Network-Based Cellular Signatures (LINCS)&lt;/a&gt;. The aim was to advance drug development through improvements to MoA prediction algorithms. The means were an open challenge hosted on the crowdsourcing platform &lt;a href=&#34;www.kaggle.com&#34;&gt;Kaggle&lt;/a&gt;. Visit &lt;a href=&#34;https://www.kaggle.com/c/lish-moa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the challenge&amp;rsquo;s website&lt;/a&gt; for more information, data, and source codes.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-the-mechanism-of-action-moa-of-a-drug-and-why-is-it-important&#34;&gt;What is the Mechanism of Action (MoA) of a drug? And why is it important?&lt;/h2&gt;
+&lt;p&gt;In the past, scientists derived drugs from natural products or were inspired by traditional remedies. Very common drugs, such as paracetamol (acetaminophen) were put into clinical use decades before the biological mechanisms driving their pharmacological activities were understood. Today, with the advent of more powerful technologies, drug discovery has changed from the serendipitous approaches of the past to a more targeted model based on an understanding of the underlying biological mechanism of a disease. In this new framework, scientists seek to identify a protein target associated with a disease and develop a molecule that can modulate that protein target. As a shorthand to describe the biological activity of a given molecule, scientists assign a label referred to as mechanism-of-action or MoA for short.&lt;/p&gt;
+&lt;h2 id=&#34;how-do-we-determine-the-moas-of-a-new-drug&#34;&gt;How do we determine the MoAs of a new drug?&lt;/h2&gt;
+&lt;p&gt;One approach is to treat a sample of human cells with the drug and then analyze the cellular responses with algorithms that search for similarity to known patterns in large genomic databases, such as libraries of gene expression or cell viability patterns of drugs with known MoAs.&lt;/p&gt;
+&lt;h2 id=&#34;what-was-the-goal-of-this-challenge&#34;&gt;What was the goal of this challenge?&lt;/h2&gt;
+&lt;p&gt;In this competition, competitors had access to a unique dataset that combines gene expression and cell viability data for about 5,000 drugs. The data is based on a new assay that measures simultaneously (within the same samples) human cells’ responses to drugs in a pool of 100 different cell types (thus solving the problem of identifying ex-ante, which cell types are better suited for a given drug). The competitors also had access to MoA annotations for more than 5,000 drugs in this dataset.&lt;/p&gt;
+&lt;p&gt;The dataset was split into testing and training subsets. Hence, the task was to use the training dataset to develop an algorithm that automatically labels each case in the test set as one or more MoA classes (&amp;ldquo;multiple-label classification&amp;rdquo;).&lt;/p&gt;
+&lt;h2 id=&#34;how-to-evaluate-the-accuracy-of-a-solution&#34;&gt;How to evaluate the accuracy of a solution?&lt;/h2&gt;
+&lt;p&gt;Based on the MoA annotations, the accuracy of solutions was evaluated on the average value of the logarithmic loss function applied to each drug-MoA annotation pair.&lt;/p&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;The analysis of the results of this competition is in progress.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advancing computational biology and bioinformatics research through open innovation competitions</title>
+      <link>http://ablasco.org/publication/adv-biology/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://ablasco.org/publication/adv-biology/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

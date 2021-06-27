@@ -1,0 +1,17 @@
+baseURL = "http://ablasco.org/"
+languageCode = "en-us"
+title = "Andrea Blasco's website"
+
+theme = 'starter-academic'
+
+[mediaTypes."application/manifest+json"]
+  suffixes = ["webmanifest"]
+
+[outputFormats.WebAppManifest]
+  mediaType = "application/manifest+json"
+  rel = "manifest"
+
+[outputFormats.headers]
+
+[outputFormats.redirects]
+
